@@ -1,0 +1,19 @@
+/* Select the <h1> element and change the font size, color, and alignment */
+h1 {
+  font-size: 32px;
+  color: #008080;
+  text-align: center;
+}
+
+/* Select the <p> element and change the font size and color */
+p {
+  font-size: 16px;
+  color: #333;
+}
+
+/* Select the <img> element and add a border, width, and height */
+img {
+  border: 1px solid #ddd;
+  width: 300px;
+  height: 200px;
+}
